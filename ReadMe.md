@@ -1,2 +1,2 @@
 arquivo da aula de git 
-teste para ver como fucniona
+teste para ver como o git funciona
