@@ -1,0 +1,17 @@
+[33mcommit a906f05042f5690deae8fd0ece9f5849cb4dbe16[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Daniel Gusmao <daniel.gusmao@indicium.tech>
+Date:   Thu Sep 1 17:00:04 2022 -0300
+
+    edit ReadMe
+
+[1mdiff --git a/ReadMe.md b/ReadMe.md[m
+[1mindex 66123d5..9eec7ba 100644[m
+[1m--- a/ReadMe.md[m
+[1m+++ b/ReadMe.md[m
+[36m@@ -1,2 +1,3 @@[m
+ arquivo da aula de git [m
+[31m-teste para ver como o git funciona[m
+\ No newline at end of file[m
+[32m+[m[32mteste para ver como o git funciona[m
+[32m+[m[32mvou testando e tentando aprender[m
+\ No newline at end of file[m
